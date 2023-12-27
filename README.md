@@ -3,7 +3,7 @@
 👀 Interested in cybersecurity in general, with an special focus on **Application Security** and **DevSecOps** processes.<br/>
 🔭 Working on several personal projects related to Home Automation.<br/>
 🌱 Currently learning security automation in CI/CD pipelines.<br/>
-💞️ I’m always looking to collaborate on non-profit cybersecurity organisations.<br/>
+💞️ I’m always looking forward to collaborate on non-profit cybersecurity organisations.<br/>
 📫 Reach me at <a href="mailto:carles@carlesllobet.com">carles @ carlesllobet.com</a> or <a href="https://twitter.com/Carles_Llobet">@Carles_Llobet</a> on Twitter.<br/>
 🔐 Grab my Public Key here: <a href="https://www.carlesllobet.com/uploads/pubkey.asc">DA27 4065 4080 401C 72C7 8F98 3469 9C9F 68A8 807C</a><br/>
 
