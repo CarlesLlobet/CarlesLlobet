@@ -1,4 +1,4 @@
-👋 Hi there, I’m Carles Llobet a Cybersecurity Enthusiast based in Barcelona!</br>
+👋 Hi there, I’m Carles Llobet a Cybersecurity Enthusiast based in Barcelona!</br></br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlesLlobet&count_private=true&show_icons=true&theme=gruvbox" width="380">
 
 👀 Interested in Cybersecurity in general, with an special focus on **Application Security** and **DevSecOps** processes.</br>
