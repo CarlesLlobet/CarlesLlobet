@@ -8,7 +8,8 @@
 
 <img align='right' src="https://github-contributor-stats.vercel.app/api?username=CarlesLlobet&limit=5&theme=dark&combine_all_yearly_contributions=true" width="380">
 
-📫 Reach me at <a href="mailto:carles@carlesllobet.com">carles @ carlesllobet.com</a> or on 🌐 Socials: [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlesllobet) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Carles_Llobet) </br>
+📫 Reach me at <a href="mailto:carles@carlesllobet.com">carles @ carlesllobet.com</a></br>
+🌐 or on Socials: [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlesllobet) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Carles_Llobet) </br>
 
 🔐 Grab my Public Key here: <br/><a href="https://www.carlesllobet.com/uploads/pubkey.asc">DA27 4065 4080 401C 72C7 8F98 3469 9C9F 68A8 807C</a></br>
 
